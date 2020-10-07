@@ -39,3 +39,6 @@ hash[yang akan di jadikan key]= yang akan dijadikan value
 
 Nah, tadi cuma untuk satu data, kalau untuk semua data, perintah sebelumnya kita modifikasi sedikit dengan menggunakan perulangan for
 
+<img src="https://user-images.githubusercontent.com/49053021/95329660-848dba80-08d1-11eb-91da-06793e9f0567.png">
+
+Terimakasih
