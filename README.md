@@ -24,4 +24,13 @@ Dalam hash ada namanya key dan value, dapat kita lihat bahwa data kita di bisahk
 saya akan menjadikan singkatan sebagai key, dan artinya sebagai value, kita pisahkan dengan perintah split()
 kita coba dengan 1 baris dulu
 
+<img src="https://user-images.githubusercontent.com/49053021/95328613-ff55d600-08cf-11eb-9c26-046af45219fa.png">
+disini saya membuat variabel baru dengan nama row yang menampung baris pertama yang sudah di split dengan menggunakan ','
+Kemudian kita akan melihat apakah hasilnya adalah "knp kenapa" dengan sintak 
 
+
+$print(row[0]+" "+row[1])
+
+## Memasukkan data dalam hash
+Kemudian kita masukkan data tersebut kedalam hash kosong yang sudah kita buat tadi dengan cara
+hash[yang akan di jadikan key]= yang akan dijadikan value
