@@ -6,3 +6,9 @@ Di sini saya menggunakan dataset dari atapdata.ai
 
 Berikut linknya : https://atapdata.ai/dataset/242
 
+## Membaca file
+<img src="https://user-images.githubusercontent.com/49053021/95327143-cc124780-08cd-11eb-8e87-35991d7ab541.png">
+
+singkatan.csv ada file csv yang sudah saya downlod dan akan di baca dengan menggunakan perintah readlines()
+Jika ingin melihat isi dari file tersebut maka tinggal print saja
+
