@@ -34,3 +34,8 @@ $print(row[0]+" "+row[1])
 ## Memasukkan data dalam hash
 Kemudian kita masukkan data tersebut kedalam hash kosong yang sudah kita buat tadi dengan cara
 hash[yang akan di jadikan key]= yang akan dijadikan value
+
+<img src="https://user-images.githubusercontent.com/49053021/95329353-003b3780-08d1-11eb-9563-b8df80127125.png">
+
+Nah, tadi cuma untuk satu data, kalau untuk semua data, perintah sebelumnya kita modifikasi sedikit dengan menggunakan perulangan for
+
