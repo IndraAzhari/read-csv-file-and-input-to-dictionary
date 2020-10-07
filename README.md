@@ -12,3 +12,8 @@ Berikut linknya : https://atapdata.ai/dataset/242
 singkatan.csv ada file csv yang sudah saya downlod dan akan di baca dengan menggunakan perintah readlines()
 Jika ingin melihat isi dari file tersebut maka tinggal print saja
 
+<img src="https://user-images.githubusercontent.com/49053021/95327643-915cdf00-08ce-11eb-9a85-7d3ceb6bf2f2.png">
+
+## Membuat Dictionary
+Untuk memasukkan data kedalam dictionari terlebih dahulu buat dictionarinya, misalnya kita namakan hash
+
